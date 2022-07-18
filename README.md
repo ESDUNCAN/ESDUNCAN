@@ -29,8 +29,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :telescope: I am seeking employment as a Junior Developer contributing to frontend and backend for building web applications.
 
-- :seedling: Exploring Technical Content Writing.
-
 - :zap: In my free time, I work out, spend time with friends and enjoy nice meals.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/eric-duncan-103554243/)
